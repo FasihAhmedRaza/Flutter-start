@@ -1,0 +1,39 @@
+
+flutter create (name project)
+
+.idea --> project realted setting hoti ha 
+
+android  --> agr hmne koi addtional feature use krna ho android ka
+
+build --> it contains th output generated when u build or run the flutter project
+          we will find all files and floders (apks etc)
+
+*lib  -> jitni bhi dart files hogi woh hm yah pr manage kre gee
+
+test --> testing krne ki liyee  ( less meemory use ho , optimization krni ho )
+
+.gitignore  -- > version control system
+
+.metadata  --> flutter tools ke regarding jitna data hoga woh yaha store hoga 
+
+.packages --> all packages and libraries store hote ha
+
+pubspec.lock -->
+
+
+*pubspec.yaml  ---> like all( fonts , imgaes  , library  any thing inclusion )declaration hogi and configuration hogi 
+
+ 
+--------------DART:-----------------
+
+Developed by google in 2011
+A mixture of javascript , java amd c#
+object oriented and strongly typed
+
+
+benefits :
+
+Async and await
+
+
+
